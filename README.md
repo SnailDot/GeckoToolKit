@@ -1,5 +1,7 @@
-# GeckoToolKit
+# Gecko Tool Kit
 A small set of python tools I use to quickly get various tasks done across multiple systems. 
+
+--------------------------------------------
 
 > ## GeckoIPs.py features:
 > - Scan network for all IPs
