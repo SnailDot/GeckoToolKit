@@ -1,17 +1,5 @@
 # Gecko Tool Kit
 
-                         d8b                                            d8b      d8b         d8,        
-                         ?88                      d8P                   88P      ?88        `8P    d8P  
-                          88b                  d888888P                d88        88b           d888888P
- d888b8b   d8888b d8888b  888  d88' d8888b       ?88'   d8888b  d8888b 888        888  d88'  88b  ?88'  
-d8P' ?88  d8b_,dPd8P' `P  888bd8P' d8P' ?88      88P   d8P' ?88d8P' ?88?88        888bd8P'   88P  88P   
-88b  ,88b 88b    88b     d88888b   88b  d88      88b   88b  d8888b  d88 88b      d88888b    d88   88b   
-`?88P'`88b`?888P'`?888P'd88' `?88b,`?8888P'      `?8b  `?8888P'`?8888P'  88b    d88' `?88b,d88'   `?8b  
-       )88                                                                                              
-      ,88P                                                                                              
-  `?8888P                                                                                               
-
-
 A small set of python tools I use to quickly get various tasks done across multiple systems. 
 
 --------------------------------------------
