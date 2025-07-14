@@ -45,7 +45,7 @@ ___
 - Check Suspicious Routing Entries
 - Check Unauthorized Network Adapters
 
-__
+___
 
 **Gecko File Tool Features:**
 - Scan Suspicious Files
@@ -53,7 +53,7 @@ __
 - Scan Hidden Files
 - Scan File Permissions
 
-__
+___
 
 **Gecko Processes Tool Features:**
 - List All Processes Currently Running
@@ -62,7 +62,7 @@ __
 - Block/Unblock Process via Firewall
 - Kill Process
 
-__
+___
 
 **Gecko Registry Tool Features:**
 - Scan Startup Programs
