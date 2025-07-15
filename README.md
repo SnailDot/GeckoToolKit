@@ -20,7 +20,7 @@ A small set of python tools I use to quickly get various tasks done across multi
 
 > ## GeckoTools.py Features:
 > - Acts as a launcher for any of the tools you have in the src folder.
-> - Can run a quicky safety scan using all of the tools below
+> - Can run a quick safety scan using all of the tools below
 > - For the launcher to work, all tools need to be in a folder named "src", and then that folder needs to be in the same directory as the GeckoTools.py script.
 > - The release has the files setup correctly if ou don't want to do it manually  
 
