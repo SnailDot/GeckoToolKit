@@ -1,7 +1,5 @@
 # Gecko Tool Kit
 
-# Gecko Tool Kit
-
 ```text
                          d8b                                            d8b      d8b         d8,        
                          ?88                      d8P                   88P      ?88        `8P    d8P  
